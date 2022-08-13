@@ -1,5 +1,6 @@
-### I just do stuff on the web ⚡
+### Hi there! I just do stuff...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTGT)](https://github.com/anuraghazra/github-readme-stats)
+## Top Languages Used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeTGT)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
