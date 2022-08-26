@@ -1,5 +1,6 @@
 ### Hi there! I just do stuff...
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCO6KclLxz86Ba-7Z7PwH7zQ?color=%23ff1100&label=YouTube%20Subs&logo=YouTube&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/AbeTGTOfficial?color=%2300a6ff&label=Twitter&logo=Twitter&logoColor=%23ffffff&style=for-the-badge)
 ## Total Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTGT)](https://github.com/anuraghazra/github-readme-stats)
 ## Top Languages Used:
