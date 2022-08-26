@@ -1,4 +1,5 @@
 ### Hi there! I just do stuff...
+[lol](https://img.shields.io/badge/Version-1.0-blue)
 ## Total Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTGT)](https://github.com/anuraghazra/github-readme-stats)
 ## Top Languages Used:
