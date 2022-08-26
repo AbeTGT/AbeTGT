@@ -1,7 +1,5 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCO6KclLxz86Ba-7Z7PwH7zQ?color=%23ff1100&label=YouTube%20Subs&logo=YouTube&style=for-the-badge)](https://youtube.com/c/AbeTGT?sub-confirmation=1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbeTGTOfficial?color=%2300a6ff&label=Twitter&logo=Twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/AbeTGTOfficial)
-## Total Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTGT)](https://github.com/anuraghazra/github-readme-stats)
 ## Top Languages Used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeTGT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
